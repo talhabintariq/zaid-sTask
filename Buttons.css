@@ -1,0 +1,76 @@
+*{
+    text-align: center;
+    background-image: url(./Devback.jpg);
+    margin: 0%;
+    padding: 0%;
+}
+.first-flex , .cal{
+    
+    padding: 0% 10% 0% 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
+    justify-content: center;
+    border: white solid 5px;
+    background-image: url(./white.png);
+    border-radius: 15px;
+    font-size: 8mm;
+}
+.first-flex p  {
+    background-image: url(./white.png);
+    font-size: 20mm;
+    display: flex;
+    justify-content: start;
+    font-family: cursive;
+}
+.about{
+    background-image: url(/white.png);
+    margin-top: 20px;
+    
+
+}
+.head-1{
+    background-image: url(./Orange.png);
+    text-decoration: italic;
+    padding: 2%;
+    color: gainsboro;
+    letter-spacing: 1.0mm;
+
+}
+.first-flex button , .blue{
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    border: blue;
+    background-image: url(./blue.png);
+    color: white;
+    font-size: 5mm;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.age ,.cal h1{
+    display:flex;
+    justify-content: center;
+    font-size: 11mm;
+    background-image: url(./white.png);
+    
+}
+.red {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    border: red;
+    background-image: url(./Red.png);
+    margin-left: 150px;
+    color: white;
+    font-size: 5mm;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.end{
+    color: white;
+    margin-top: 50px;
+}
+.age{
+    margin-top: 100px;
+}
